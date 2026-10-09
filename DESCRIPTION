@@ -1,0 +1,15 @@
+Package: superstats
+Type: Package
+Title: Super Statistics
+Version: 1.0
+Date: 2026-10-09
+Authors@R: c( person("Michail", "Tsagris", role = c("aut", "cre"), email = "mtsagris@uoc.gr"),
+              person("Papadakis", "Manos", role = "aut", email = "papadakm95@gmail.com"), 
+              person("Alzeley", "Omar", role = c("aut", "cph"), email = "oazeley@uqu.edu.sa") )
+Author: Michail Tsagris [aut, cre], Manos Papadakis [aut], Alzeley Omar [aut, cph]
+Maintainer: Michail Tsagris <mtsagris@uoc.gr>
+Depends: R (>= 4.0)
+Imports: graphics, grDevices, Rfast, Rfast2
+Description: Superstatistics generally applies to analyzing complex systems where traditional statistical methods are insufficient. This approach is particularly valuable in areas like physics, finance, and environmental science. It steps in when there are underlying variables or parameters in a system that fluctuate significantly over space or time, which traditional statistics might overlook. For more information see: Alzeley O. (2020). "On a Statistical Learning Algorithm of Superstatistics". Computational and Mathematical Methods, 2(3), e1085. <doi:10.1002/cmm4.1085>.
+License: GPL (>= 2)
+

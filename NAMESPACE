@@ -1,0 +1,11 @@
+#useDynLib(fsn, .registration = TRUE)
+
+importFrom("graphics", par, persp, title)
+importFrom("grDevices", dev.new)
+
+importFrom("Rfast", rep_row, rowMins, Rnorm, rowsums, eachrow, rmvnorm)
+importFrom("Rfast2", Runif)
+
+exportPattern("^[[:alpha:]]+")
+exportPattern("^[^\\.]")
+
