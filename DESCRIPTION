@@ -4,7 +4,7 @@ Title: Super Statistics
 Version: 1.0
 Date: 2026-10-09
 Authors@R: c( person("Michail", "Tsagris", role = c("aut", "cre"), email = "mtsagris@uoc.gr"),
-              person("Papadakis", "Manos", role = "aut", email = "papadakm95@gmail.com"), 
+              person("Manos", "Papadakis", role = "aut", email = "papadakm95@gmail.com"), 
               person("Alzeley", "Omar", role = c("aut", "cph"), email = "oazeley@uqu.edu.sa") )
 Author: Michail Tsagris [aut, cre], Manos Papadakis [aut], Alzeley Omar [aut, cph]
 Maintainer: Michail Tsagris <mtsagris@uoc.gr>
